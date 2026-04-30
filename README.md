@@ -1,16 +1,118 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ManavChauhan123/ManavChauhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Kr%20Manav&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Orbitron&desc=Quant%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20Data%20Science%20%26%20Analytics&descSize=16&descAlignY=60&descColor=a0aec0)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-chauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManavChauhan123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhankmv@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Quantitative+Research+%40+WorldQuant+%F0%9F%93%88;Alpha+signals+%7C+Portfolio+Optimization+%7C+HFT+Systems;Building+ML+pipelines+for+financial+markets+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+## 🧑‍💻 About
+
+<table>
+<tr>
+<td>
+
+I build **quantitative systems and ML pipelines** at the intersection of finance and data science — from alpha signal generation to high-frequency portfolio optimization. My focus is on rigorous, research-driven engineering that holds up under real market conditions.
+
+Currently a **Quantitative Research Consultant at WorldQuant** and a penultimate-year CS (Data Science & Analytics) student at **IIIT Nagpur**.
+
+</td>
+<td align="center" width="220">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManavChauhan123&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS)
+
+**📍 India · IIIT Nagpur**
+**📈 Sharpe Ratio avg: 1.85**
+**🏆 Top 2% Amazon ML 2025**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I've Built
+
+<div align="center">
+
+| &nbsp; | Project Area | What It Involves |
+|--------|-------------|-----------------|
+| 📊 | **Alpha Signal Generation** | 150+ mean-reversion & momentum signals across US & Asian equities |
+| ⚙️ | **HF Portfolio Optimization** | Convex optimization on $1M simulated book, 35% variance reduction |
+| 🤖 | **RAG Financial NLP Analyst** | 10-K filing parser with FAISS + BERT, sub-100ms latency on 50K+ docs |
+| 🔍 | **Deepfake Detection (KYC)** | ResNet-50 CNN, 92% AUC-ROC on 100K+ frames for identity verification |
+
+</div>
+
+---
+
+## 💼 Experience
+
+**Quantitative Research Consultant — [WorldQuant](https://www.worldquant.com)** *(Aug 2025 – Present)*
+
+- Developed **150+ alpha signals** targeting mean-reversion and momentum, achieving avg Sharpe ratio of **1.85** across US and Asian equities
+- Processed **2TB of historical tick data** via Brain simulation engine, running 10,000+ backtests to optimize signal turnover and decay rates
+- Improved out-of-sample Information Coefficient (IC) stability using ensemble learning and regularized regression
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning & AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Data & Quant**
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![QuantConnect](https://img.shields.io/badge/QuantConnect-141414?style=flat-square&logoColor=white)
+![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=flat-square&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+| 🥇 | **Top 2%** — Amazon ML Challenge 2025 · Rank 108 qualifiers, Rank 224 final among 12,000+ |
+|----|---|
+| 🥇 | **Winner** — Quant Quest, IIIT Nagpur · Option-straddle algo with 50% ROI in 4-week sim |
+| 🥈 | **Runner-up** — Quant Quest, IIT Kharagpur · Mean-variance model, 2nd among 150+ teams |
+| 🥈 | **Runner-up** — ML Hackathon · NLP pipeline with 90% semantic accuracy, 2nd of 80+ teams |
+| 🥉 | **3rd Place** — MarketWise Deep Learning · Detection system with 92% precision, 200+ entrants |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ManavChauhan123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=ManavChauhan123&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavChauhan123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)

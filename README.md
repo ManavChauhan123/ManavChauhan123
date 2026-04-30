@@ -10,59 +10,17 @@
 
 </div>
 
-<br>
+---
 
-## 🧑‍💻 About
+## About
 
-<table>
-<tr>
-<td>
-
-I build **quantitative systems and ML pipelines** at the intersection of finance and data science — from alpha signal generation to high-frequency portfolio optimization. My focus is on rigorous, research-driven engineering that holds up under real market conditions.
+I build **quantitative systems and ML pipelines** at the intersection of finance and data science. My focus is on rigorous, research-driven engineering that holds up under real market conditions.
 
 Currently a **Quantitative Research Consultant at WorldQuant** and a penultimate-year CS (Data Science & Analytics) student at **IIIT Nagpur**.
 
-</td>
-<td align="center" width="220">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManavChauhan123&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS)
-
-**📍 India · IIIT Nagpur**
-**📈 Sharpe Ratio avg: 1.85**
-**🏆 Top 2% Amazon ML 2025**
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 What I've Built
-
-<div align="center">
-
-| &nbsp; | Project Area | What It Involves |
-|--------|-------------|-----------------|
-| 📊 | **Alpha Signal Generation** | 150+ mean-reversion & momentum signals across US & Asian equities |
-| ⚙️ | **HF Portfolio Optimization** | Convex optimization on $1M simulated book, 35% variance reduction |
-| 🤖 | **RAG Financial NLP Analyst** | 10-K filing parser with FAISS + BERT, sub-100ms latency on 50K+ docs |
-| 🔍 | **Deepfake Detection (KYC)** | ResNet-50 CNN, 92% AUC-ROC on 100K+ frames for identity verification |
-
-</div>
-
----
-
-## 💼 Experience
-
-**Quantitative Research Consultant — [WorldQuant](https://www.worldquant.com)** *(Aug 2025 – Present)*
-
-- Developed **150+ alpha signals** targeting mean-reversion and momentum, achieving avg Sharpe ratio of **1.85** across US and Asian equities
-- Processed **2TB of historical tick data** via Brain simulation engine, running 10,000+ backtests to optimize signal turnover and decay rates
-- Improved out-of-sample Information Coefficient (IC) stability using ensemble learning and regularized regression
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -84,26 +42,13 @@ Currently a **Quantitative Research Consultant at WorldQuant** and a penultimate
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![QuantConnect](https://img.shields.io/badge/QuantConnect-141414?style=flat-square&logoColor=white)
-![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=flat-square&logoColor=white)
 
 ---
 
-## 🏆 Achievements
-
-| 🥇 | **Top 2%** — Amazon ML Challenge 2025 · Rank 108 qualifiers, Rank 224 final among 12,000+ |
-|----|---|
-| 🥇 | **Winner** — Quant Quest, IIIT Nagpur · Option-straddle algo with 50% ROI in 4-week sim |
-| 🥈 | **Runner-up** — Quant Quest, IIT Kharagpur · Mean-variance model, 2nd among 150+ teams |
-| 🥈 | **Runner-up** — ML Hackathon · NLP pipeline with 90% semantic accuracy, 2nd of 80+ teams |
-| 🥉 | **3rd Place** — MarketWise Deep Learning · Detection system with 92% precision, 200+ entrants |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -112,6 +57,16 @@ Currently a **Quantitative Research Consultant at WorldQuant** and a penultimate
 ![Streak](https://streak-stats.demolab.com/?user=ManavChauhan123&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavChauhan123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+*Open to quant research collaborations and interesting ML problems.*
 
 </div>
 

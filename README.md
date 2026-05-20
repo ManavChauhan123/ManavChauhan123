@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,50:1a1a2e,100:16213e\&height=220\&section=header\&text=Manav%20Chauhan\&fontSize=65\&fontColor=ffffff\&fontAlignY=40\&fontFamily=Orbitron\&desc=Quant%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20Data%20Science%20and%20Analytics\&descSize=16\&descAlignY=60\&descColor=a0aec0)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white[)](https://www.linkedin.com/in/manav-chauhan-a8477928a/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white[)](https://www.linkedin.com/in/manav-chauhan-a8477928a/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ManavChauhan123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chauhankmv@gmail.com)
 
